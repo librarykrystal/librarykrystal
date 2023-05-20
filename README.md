@@ -1,8 +1,9 @@
-### Hello! 👋🤓
+### Hello!
+#### I'm Krystal Frost.
 
-- I'm a software engineer who loves the front end and UX design!
+- I'm a software engineer who loves the front end and UX design.
 - I've been building with React and am now learning Vue.
-- I love art museums, live music, writing, painting, and hangin' with my cat, Rigby. ("Tortietude" is REAL.)
+- I love art, live music, writing, painting, and hangin' with my cat, Rigby. ("Tortietude" is REAL.)
 
 #
 
@@ -14,6 +15,11 @@ www.linkedin.com/in/krystal-frost/
 
 <a href="https://www.krystalfrost.com/">
 www.krystalfrost.com
+</a> 
+<br></br>
+
+<a href="https://www.galleryoffrost.com/">
+www.galleryoffrost.com
 </a> 
 
 #
@@ -32,3 +38,8 @@ www.krystalfrost.com
 <img align="left" alt="Nodejs" width="32px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" style="padding-right:10px;" />
 <img align="left" alt="Express" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" style="padding-right:10px;" />
 <img align="left" alt="postman" width="26px" src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" style="padding-right:10px;" />
+
+<br></br>
+#
+
+<h2>🖤 😺 🖖 🍁 🌛 🌩️ 🧇 ☕️ 🎨 🖋️ 🔎</h2>
