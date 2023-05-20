@@ -1,4 +1,9 @@
-### Hi there 👋
+### Greetings! 👋🤓
+
+- I'm a software engineer and lover of everything creative!
+- I've been building with React and am now learning Vue.
+
+
 
 <!--
 **librarykrystal/librarykrystal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
