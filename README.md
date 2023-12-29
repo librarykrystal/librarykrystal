@@ -2,7 +2,7 @@
 #### I'm Krystal Frost.
 
 - I'm a software engineer who is into front-end and UX design.
-- I've been building with React and am now learning Vue.
+- I've been building with React and I dig CSS.
 - I love art, live music, writing, painting, and hangin' with my cat, Rigby. ("Tortietude" is REAL.)
 ##
 <img align="left" alt="HTML5" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" style="padding-right:10px;" />
