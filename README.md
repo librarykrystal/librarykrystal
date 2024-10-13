@@ -19,7 +19,6 @@
 <img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual_Studio_Code-000000?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" style="margin:10px;" />
 <img alt="Slack" src="https://img.shields.io/badge/Slack-000000?style=for-the-badge&logo=slack&logoColor=white" style="padding-right:10px;" />
 <br/>
-
 <img alt="HTML5" src="https://img.shields.io/badge/HTML5-000000?style=for-the-badge&logo=html5&logoColor=white" style="margin:10px;" />
 <img alt="CSS3" src="https://img.shields.io/badge/CSS3-000000?style=for-the-badge&logo=css3&logoColor=white" style="margin:10px;" />
 <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=javascript&logoColor=white" style="margin:10px;" />
@@ -36,9 +35,6 @@
 <img alt="Express" src="https://img.shields.io/badge/Express%20js-000000?style=for-the-badge&logo=express&logoColor=white" style="padding-right:10px;" />
 <img alt="Axios" src="https://img.shields.io/badge/axios-000000?&style=for-the-badge&logo=axios&logoColor=white" style="padding-right:10px;" />
 <img alt="JQuery" src="https://img.shields.io/badge/jQuery-000000?style=for-the-badge&logo=jquery&logoColor=white" style="padding-right:10px;" />
-
-<br/>
-
 <img alt="Docker" src="https://img.shields.io/badge/Docker-000000?style=for-the-badge&logo=docker&logoColor=white" style="padding-right:10px;" />
 <img alt="Postgres" src="https://img.shields.io/badge/PostgreSQL-000000?style=for-the-badge&logo=postgresql&logoColor=white" style="padding-right:10px;" />
 <img alt="MySQL" src="https://img.shields.io/badge/mysql-000000?style=for-the-badge&logo=mysql&logoColor=white" style="padding-right:10px;" />
