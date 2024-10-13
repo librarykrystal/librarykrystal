@@ -12,32 +12,40 @@
 <br/>
 
 <p align='center'>
-<img alt="HTML5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" style="margin:10px;" />
-<img alt="CSS3" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" style="margin:10px;" />
-<img alt="photoshop" src="https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=Adobe%20Photoshop&logoColor=black" style="margin:10px;" />
-<img alt="canva" src="https://img.shields.io/badge/Canva-%2300C4CC.svg?&style=for-the-badge&logo=Canva&logoColor=white" style="margin:10px;" />
-<img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" style="margin:10px;" />
-<img alt="Git" src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" style="margin:10px;" />
-<img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" style="margin:10px;" />
-<img alt="Vue" src="https://img.shields.io/badge/Vue%20js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D" style="margin:10px;" />
-<img alt="ruby" src="https://img.shields.io/badge/Ruby-CC342D?style=for-the-badge&logo=ruby&logoColor=white" style="margin:10px;" />
-<img alt="MUI" src="https://img.shields.io/badge/Material%20UI-007FFF?style=for-the-badge&logo=mui&logoColor=white" style="margin:10px;" />
-<img alt="React" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" style="padding-right:10px;" />
-<img alt="ReactRouter" src="https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white" style="padding-right:10px;" />
-<img alt="Redux" src="https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white" style="padding-right:10px;" />
-<img alt="Reduxsaga" src="https://img.shields.io/badge/Redux%20saga-86D46B?style=for-the-badge&logo=redux%20saga&logoColor=999999" style="padding-right:10px;" />
-<img alt="Postgres" src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" style="padding-right:10px;" />
-<img alt="Nodejs" src="https://img.shields.io/badge/Node%20js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" style="padding-right:10px;" />
-<img alt="npm" src="https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white" style="padding-right:10px;" />
+<img alt="MacOS" src="https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=apple&logoColor=white" style="padding-right:10px;" />
+<img alt="Apple Silicon" src="https://img.shields.io/badge/apple%20silicon-000000?style=for-the-badge&logo=apple&logoColor=white" style="padding-right:10px;" />
+<img alt="Git" src="https://img.shields.io/badge/GIT-000000?style=for-the-badge&logo=git&logoColor=white" style="margin:10px;" />
+<img alt="Github" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" style="padding-right:10px;" />
+<img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual_Studio_Code-000000?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" style="margin:10px;" />
+<img alt="Slack" src="https://img.shields.io/badge/Slack-000000?style=for-the-badge&logo=slack&logoColor=white" style="padding-right:10px;" />
+<br/>
+
+<img alt="HTML5" src="https://img.shields.io/badge/HTML5-000000?style=for-the-badge&logo=html5&logoColor=white" style="margin:10px;" />
+<img alt="CSS3" src="https://img.shields.io/badge/CSS3-000000?style=for-the-badge&logo=css3&logoColor=white" style="margin:10px;" />
+<img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=javascript&logoColor=white" style="margin:10px;" />
+<img alt="React" src="https://img.shields.io/badge/React-000000?style=for-the-badge&logo=react&logoColor=white" style="padding-right:10px;" />
+<img alt="ReactRouter" src="https://img.shields.io/badge/React_Router-000000?style=for-the-badge&logo=react-router&logoColor=white" style="padding-right:10px;" />
+<img alt="Redux" src="https://img.shields.io/badge/Redux-000000?style=for-the-badge&logo=redux&logoColor=white" style="padding-right:10px;" />
+<img alt="Reduxsaga" src="https://img.shields.io/badge/Redux%20saga-000000?style=for-the-badge&logo=redux%20saga&logoColor=white" style="padding-right:10px;" />
+<img alt="NextJS" src="https://img.shields.io/badge/Redux%20saga-000000?style=for-the-badge&logo=redux%20saga&logoColor=white" style="padding-right:10px;" />
+<img alt="Vue" src="https://img.shields.io/badge/Vue%20js-000000?style=for-the-badge&logo=vuedotjs&logoColor=white" style="margin:10px;" />
+<img alt="MUI" src="https://img.shields.io/badge/Material%20UI-000000?style=for-the-badge&logo=mui&logoColor=white" style="margin:10px;" />
+<img alt="Tailwind CSS" src="https://img.shields.io/badge/tailwind_css-131415?style=for-the-badge&logo=tailwindcss&logoColor=white" style="margin:10px;" />
+<img alt="NodeJS" src="https://img.shields.io/badge/Node%20js-000000?style=for-the-badge&logo=nodedotjs&logoColor=white" style="padding-right:10px;" />
+<img alt="npm" src="https://img.shields.io/badge/npm-000000?style=for-the-badge&logo=npm&logoColor=white" style="padding-right:10px;" />
 <img alt="Express" src="https://img.shields.io/badge/Express%20js-000000?style=for-the-badge&logo=express&logoColor=white" style="padding-right:10px;" />
-<img alt="axios" src="https://img.shields.io/badge/axios-671ddf?&style=for-the-badge&logo=axios&logoColor=white" style="padding-right:10px;" />
-<img alt="jquery" src="https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white" style="padding-right:10px;" />
-<img alt="postman" src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white" style="padding-right:10px;" />
-<img alt="railway" src="https://img.shields.io/badge/Railway-131415?style=for-the-badge&logo=railway&logoColor=white" style="padding-right:10px;" />
-<img alt="macos" src="https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=apple&logoColor=white" style="padding-right:10px;" />
-<img alt="applesilicon" src="https://img.shields.io/badge/apple%20silicon-333333?style=for-the-badge&logo=apple&logoColor=white" style="padding-right:10px;" />
-<img alt="github" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" style="padding-right:10px;" />
-<img alt="slack" src="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white" style="padding-right:10px;" />
+<img alt="Axios" src="https://img.shields.io/badge/axios-000000?&style=for-the-badge&logo=axios&logoColor=white" style="padding-right:10px;" />
+<img alt="JQuery" src="https://img.shields.io/badge/jQuery-000000?style=for-the-badge&logo=jquery&logoColor=white" style="padding-right:10px;" />
+
+<br/>
+
+<img alt="Docker" src="https://img.shields.io/badge/Docker-000000?style=for-the-badge&logo=docker&logoColor=white" style="padding-right:10px;" />
+<img alt="Postgres" src="https://img.shields.io/badge/PostgreSQL-000000?style=for-the-badge&logo=postgresql&logoColor=white" style="padding-right:10px;" />
+<img alt="MySQL" src="https://img.shields.io/badge/mysql-000000?style=for-the-badge&logo=mysql&logoColor=white" style="padding-right:10px;" />
+<img alt="Postman" src="https://img.shields.io/badge/Postman-000000?style=for-the-badge&logo=Postman&logoColor=white" style="padding-right:10px;" />
+<img alt="Railway" src="https://img.shields.io/badge/Railway-000000?style=for-the-badge&logo=railway&logoColor=white" style="padding-right:10px;" />
+<img alt="Photoshop" src="https://img.shields.io/badge/Adobe%20Photoshop-000000?style=for-the-badge&logo=Adobe%20Photoshop&logoColor=white" style="margin:10px;" />
+<img alt="Lightroom" src="https://img.shields.io/badge/adobe_lightroom-131415?style=for-the-badge&logo=adobelightroom&logoColor=white" style="margin:10px;" />
 </p>
 &nbsp; &nbsp; &nbsp; 
 
