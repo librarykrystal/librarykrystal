@@ -26,7 +26,7 @@
 <img alt="ReactRouter" src="https://img.shields.io/badge/React_Router-000000?style=for-the-badge&logo=react-router&logoColor=white" style="padding-right:10px;" />
 <img alt="Redux" src="https://img.shields.io/badge/Redux-000000?style=for-the-badge&logo=redux&logoColor=white" style="padding-right:10px;" />
 <img alt="Reduxsaga" src="https://img.shields.io/badge/Redux%20saga-000000?style=for-the-badge&logo=redux%20saga&logoColor=white" style="padding-right:10px;" />
-<img alt="NextJS" src="https://img.shields.io/badge/Redux%20saga-000000?style=for-the-badge&logo=redux%20saga&logoColor=white" style="padding-right:10px;" />
+<img alt="NextJS" src="https://img.shields.io/badge/Nextjs-000000?style=for-the-badge&logo=next%20js&logoColor=white" style="padding-right:10px;" />
 <img alt="Vue" src="https://img.shields.io/badge/Vue%20js-000000?style=for-the-badge&logo=vuedotjs&logoColor=white" style="margin:10px;" />
 <img alt="MUI" src="https://img.shields.io/badge/Material%20UI-000000?style=for-the-badge&logo=mui&logoColor=white" style="margin:10px;" />
 <img alt="Tailwind CSS" src="https://img.shields.io/badge/tailwind_css-131415?style=for-the-badge&logo=tailwindcss&logoColor=white" style="margin:10px;" />
